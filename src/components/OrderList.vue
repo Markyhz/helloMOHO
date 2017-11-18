@@ -6,8 +6,7 @@
       </router-link>
       <mt-button icon="more" slot="right"></mt-button>
     </mt-header>
-
-
+    
     <mt-navbar class="page-part" v-model="selected">
       <mt-tab-item id="1">挂起</mt-tab-item>
       <mt-tab-item id="2">已结账</mt-tab-item>
